@@ -11,7 +11,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin, user_admin, c
 from tg_bot.modules.log_channel import loggable
 from tg_bot.modules.sql import antiflood_sql as sql
 
-FLOOD_GROUP = 3
+FLOOD_GROUP = 2
 
 
 @run_async
